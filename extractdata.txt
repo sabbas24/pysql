@@ -1,0 +1,23 @@
+Selecting rows from mobile table using cursor.fetchall
+Print each row and it's columns values
+('Id = ', 1)
+('Name = ', 'Syed Ahmed')
+('Surname = ', 'Abbas', '\n')
+('Birthday = ', 'Abbas', '\n')
+('Id = ', 2)
+('Name = ', 'Andrea')
+('Surname = ', 'Fabris', '\n')
+('Birthday = ', 'Fabris', '\n')
+('Id = ', 3)
+('Name = ', 'Andrea')
+('Surname = ', 'Barion', '\n')
+('Birthday = ', 'Barion', '\n')
+('Id = ', 4)
+('Name = ', 'Stefano')
+('Surname = ', 'Barion', '\n')
+('Birthday = ', 'Barion', '\n')
+('Id = ', 5)
+('Name = ', 'Riccardo')
+('Surname = ', 'Decicco', '\n')
+('Birthday = ', 'Decicco', '\n')
+PostgreSQL connection is closed
